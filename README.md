@@ -1,0 +1,4 @@
+- Hi, my name is Sydney and I'm a rising junior studying Computer Science.
+- I'm interested in data science, application development, and learning as much as I can about anything!
+- Currently working on several personal projects.
+- snk5@rice.edu
